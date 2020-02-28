@@ -1,9 +1,8 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import './Main.css';
 import TodoList from "./TodoList/TodoList";
 import plus from './plus.png'
-
+import ErrorBoundary from "../ErrorBoundary";
 
 
 function Main() {
@@ -11,9 +10,11 @@ function Main() {
         <div className="wrapper">
             <div className="addNewItem">
                 <p>What shall I do today?</p>
-                <img src={plus}/>
+                <img src={plus} alt="addButton"/>
             </div>
-            <TodoList />
+            <ErrorBoundary>
+                <TodoList />
+            </ErrorBoundary>
         </div>
     );
 }

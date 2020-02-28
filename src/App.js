@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import './App.css';
 import Header from "./Header/Header";
 import Main from "./Main/Main";
@@ -16,5 +15,3 @@ function App() {
 }
 
 export default App;
-
-
