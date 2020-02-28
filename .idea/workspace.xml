@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe3f7e2-16b8-4c3b-81ed-e1bf94330766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ErrorBoundary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/TodoList/TodoList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoListItem/TodoListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/TodoList/TodoListItem/TodoListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ErrorBoundary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer/Brainstation.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Brainstation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/TodoList/TodoList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/TodoList/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoListItem/TodoListItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/TodoList/TodoListItem/TodoListItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/TodoListItem/TodoListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/TodoList/TodoListItem/TodoListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/TodoList/filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/TodoList/filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/plus.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +51,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Downloads\уни\REACT\projects\to-do\src\Components\ErrorBoundary" />
+      <recent name="C:\Downloads\уни\REACT\projects\to-do\src\Components" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -71,7 +81,7 @@
       <updated>1582540052198</updated>
       <workItem from="1582540080862" duration="16199000" />
       <workItem from="1582723667505" duration="17097000" />
-      <workItem from="1582809406288" duration="26901000" />
+      <workItem from="1582809406288" duration="27649000" />
     </task>
     <servers />
   </component>

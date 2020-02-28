@@ -2,7 +2,7 @@ import React from 'react';
 import './Main.css';
 import TodoList from "./TodoList/TodoList";
 import plus from './plus.png'
-import ErrorBoundary from "../ErrorBoundary";
+import ErrorBoundary from "../ErrorBoundary/ErrorBoundary";
 
 
 function Main() {
